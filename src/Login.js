@@ -31,7 +31,7 @@ const Login = () => {
           </div>
 
         <Button type="sumit" onClick={signIn}>
-            Sign in with Google
+            Sign in with your Google login
         </Button>
           </div>
         </div>
