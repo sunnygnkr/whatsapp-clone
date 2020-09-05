@@ -1,2 +1,5 @@
-# whatsapp-clone
-Created a whatsapp clone using React.js
+# Whatsapp-clone
+
+Created a whatsapp clone using React.js.
+
+Clever progrrammer is a good youtube channel to follow for react tutorials.
