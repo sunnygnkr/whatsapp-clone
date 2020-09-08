@@ -1,0 +1,1 @@
+This is just an additional text file to test github commands.
