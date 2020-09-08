@@ -8,3 +8,5 @@ Clever progrrammer is a good youtube channel to follow for react tutorials.
 Created a demoBranch from master.
 
 Creating a new branch on github and then pushing it to local.
+
+Some edits done in local repository for the above created github branch.
